@@ -1,7 +1,7 @@
 form {
     /* Uniquement centrer le formulaire sur la page */
     margin: 0 auto;
-    width: 400px;
+    /*width: 400px;*/
     /* Encadré pour voir les limites du formulaire */
     padding: 1em;
     border: 1px solid #CCC;
@@ -55,3 +55,11 @@ form {
        entre les étiquettes et les champs texte */
     margin-left: .5em;
   }
+
+.homme {
+    right: 30px;
+}
+
+.hommeinput {
+  right: 30px;
+}
