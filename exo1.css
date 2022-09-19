@@ -1,7 +1,7 @@
 form {
     /* Uniquement centrer le formulaire sur la page */
     margin: 0 auto;
-    /*width: 400px;*/
+    width: 1000px;
     /* Encadré pour voir les limites du formulaire */
     padding: 1em;
     border: 1px solid #CCC;
@@ -62,4 +62,8 @@ form {
 
 .hommeinput {
   right: 30px;
+}
+
+.ex1 {
+  margin-left: 100px;
 }
