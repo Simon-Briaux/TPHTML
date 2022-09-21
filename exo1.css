@@ -1,7 +1,7 @@
 form {
     /* Uniquement centrer le formulaire sur la page */
     margin: 0 auto;
-    width: 1000px;
+    width: 500px;
     /* Encadré pour voir les limites du formulaire */
     padding: 1em;
     border: 1px solid #CCC;
@@ -73,6 +73,22 @@ form {
 }
 
 .adresse {
-float: left;
-margin-bottom: 100px ;
+  float: left;
+  margin-bottom: 100px ;
+}
+
+.espace {
+  margin-top: 30px ;
+}
+
+.espace2 {
+  margin-top: 25px ;
+  margin-left: 50px;
+}
+.espace3 {
+  margin-top: 50px ;
+  margin-left: 100px;
+}
+.gauche {
+  float: left;
 }
