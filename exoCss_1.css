@@ -16,7 +16,6 @@
 
 .jaune {
     padding: 40%;
-    vertical-align:middle;
     text-align: center;
     font-weight: bold;
     background-color:  yellow;
@@ -25,11 +24,11 @@
 }
 
 .rose {
-    padding: 40%;
-    vertical-align:middle;
+    padding-bottom: 80%;
     text-align: center;
+    float: left;
     font-weight: bold;
-    background-color:  yellow;
-    border: 20px solid yellow;
+    background-color:  pink;
+    border: 20px solid pink;
     margin: 0px;
 }
