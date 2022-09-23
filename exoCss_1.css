@@ -1,0 +1,35 @@
+.bleu {
+    text-align: center;
+    font-weight: bold;
+    background-color:  cyan;
+    border: 20px solid cyan;
+    margin: 0px;
+}
+
+.turquoise {
+    text-align: center;
+    font-weight: bold;
+    background-color:  turquoise;
+    border: 20px solid turquoise;
+    margin: 0px;
+}
+
+.jaune {
+    padding: 40%;
+    vertical-align:middle;
+    text-align: center;
+    font-weight: bold;
+    background-color:  yellow;
+    border: 20px solid yellow;
+    margin: 0px;
+}
+
+.rose {
+    padding: 40%;
+    vertical-align:middle;
+    text-align: center;
+    font-weight: bold;
+    background-color:  yellow;
+    border: 20px solid yellow;
+    margin: 0px;
+}
